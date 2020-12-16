@@ -1,0 +1,31 @@
+{
+  "name": "npoint",
+  "version": "1.0.0",
+  "description": "NodeJS API for npoint.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakapear/npoint.git"
+  },
+  "keywords": [
+    "npoint.io",
+    "npoint",
+    "json-schema",
+    "json",
+    "schema",
+    "jsonbin",
+    "api"
+  ],
+  "author": "bakapear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bakapear/npoint/issues"
+  },
+  "homepage": "https://github.com/bakapear/npoint#readme",
+  "dependencies": {
+    "despair": "^2.1.2"
+  }
+}
