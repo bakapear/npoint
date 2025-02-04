@@ -1,6 +1,8 @@
 # npoint
 NodeJS API for [npoint.io](https://npoint.io/)
 
+> npoint.io is not giving out API keys to new users anymore. So if you don't own a legacy account then you cannot use this wrapper.
+
 Includes reading/writing to documents.<br>
 Creating/Deleting of documents is not supported yet.
 
